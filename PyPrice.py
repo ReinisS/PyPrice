@@ -1,3 +1,8 @@
+# Reinis Šestakovskis
+# 2019
+# Python specseminārs
+# Amazon Scraper projekts PyPrice
+
 # -*- coding: utf-8 -*-
 import sys
 import os

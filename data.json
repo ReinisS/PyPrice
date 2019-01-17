@@ -1,0 +1,103 @@
+[
+    {
+        "Name": "MSI Performance GAMING Intel 8th Gen LGA 1151 M.2 D-Sub DVI DP USB 3.0 Gigabit LAN CFX ATX Motherboard (Z370 GAMING PLUS)",
+        "Prices": [
+            "119.99",
+            "119.99",
+            "119.99",
+            "119.99",
+            "119.99"
+        ]
+    },
+    {
+        "Name": "ASUS ROG STRIX B350-F GAMING AMD Ryzen AM4 DDR4 HDMI DisplayPort M.2 USB 3.1 ATX B350 Motherboard",
+        "Prices": [
+            "115.63",
+            "125.63",
+            "135.63",
+            "125.63",
+            "125.63"
+        ]
+    },
+    {
+        "Name": "AMD Ryzen 5 2600 Processor with Wraith Stealth Cooler - YD2600BBAFBOX",
+        "Prices": [
+            "164.99",
+            "154.99",
+            "144.99",
+            "144.99",
+            "144.99"
+        ]
+    },
+    {
+        "Name": "Intel Core i7-8700K Desktop Processor 6 Cores up to 4.7GHz Turbo Unlocked LGA1151 300 Series 95W",
+        "Prices": [
+            "366.44",
+            "376.44",
+            "366.44",
+            "376.44",
+            "366.44"
+        ]
+    },
+    {
+        "Name": "EVGA GeForce GTX 1060 GAMING, ACX 2.0 (Single Fan), 6GB GDDR5, DX12 OSD Support (PXOC) 06G-P4-6161-KR",
+        "Prices": [
+            "285.99",
+            "295.99",
+            "295.99",
+            "295.99",
+            "295.99",
+            "295.99"
+        ]
+    },
+    {
+        "Name": "MSI Gaming Radeon RX 580 256-bit 8GB GDRR5 DirectX 12 VR Ready CFX Graphics Card (RX 580 ARMOR MK2 8G OC)",
+        "Prices": [
+            "239.95",
+            "229.95",
+            "229.95",
+            "219.95",
+            "219.95"
+        ]
+    },
+    {
+        "Name": "NZXT H500 – Compact ATX Mid-Tower Case – Tempered Glass Panel – All-Steel Construction – Enhanced Cable Management System – Water-Cooling Ready - White\\Black",
+        "Prices": [
+            "71.99",
+            "71.99",
+            "71.99",
+            "71.99",
+            "71.99"
+        ]
+    },
+    {
+        "Name": "CORSAIR Crystal 570X RGB Mid-Tower Case, 3 RGB Fans, Tempered Glass - Black",
+        "Prices": [
+            "159.98",
+            "154.98",
+            "154.98",
+            "154.98",
+            "154.98"
+        ]
+    },
+    {
+        "Name": "Corsair Vengeance LPX 16GB (2x8GB) DDR4 DRAM 3000MHz C15 Desktop Memory Kit - Black (CMK16GX4M2B3000C15)",
+        "Prices": [
+            "124.99",
+            "129.99",
+            "129.99",
+            "129.99",
+            "124.99"
+        ]
+    },
+    {
+        "Name": "CORSAIR Vengeance RGB 16GB (2x8GB) DDR4 3000MHz C16 Desktop Memory - Black",
+        "Prices": [
+            "114.99",
+            "119.99",
+            "119.99",
+            "119.99",
+            "119.99"
+        ]
+    }
+]
